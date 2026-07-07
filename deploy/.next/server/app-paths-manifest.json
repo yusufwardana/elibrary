@@ -1,0 +1,21 @@
+{
+  "/(auth)/forgot-password/page": "app/(auth)/forgot-password/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(auth)/reset-password/page": "app/(auth)/reset-password/page.js",
+  "/(dashboard)/accreditation/page": "app/(dashboard)/accreditation/page.js",
+  "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js",
+  "/(dashboard)/books/page": "app/(dashboard)/books/page.js",
+  "/(dashboard)/inventory/page": "app/(dashboard)/inventory/page.js",
+  "/(dashboard)/literacy/page": "app/(dashboard)/literacy/page.js",
+  "/(dashboard)/loans/page": "app/(dashboard)/loans/page.js",
+  "/(dashboard)/members/page": "app/(dashboard)/members/page.js",
+  "/(dashboard)/page": "app/(dashboard)/page.js",
+  "/(dashboard)/profile/page": "app/(dashboard)/profile/page.js",
+  "/(dashboard)/reports/page": "app/(dashboard)/reports/page.js",
+  "/(dashboard)/settings/page": "app/(dashboard)/settings/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}

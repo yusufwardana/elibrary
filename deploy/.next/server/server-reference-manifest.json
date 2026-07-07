@@ -1,0 +1,720 @@
+{
+  "node": {
+    "6025e39521a7106254360e2e274598c9080b139421": {
+      "workers": {
+        "app/(auth)/forgot-password/page": {
+          "moduleId": 85074,
+          "async": false,
+          "exportedName": "forgotPassword",
+          "filename": "src/app/auth/actions.ts"
+        }
+      },
+      "filename": "src/app/auth/actions.ts",
+      "exportedName": "forgotPassword"
+    },
+    "60d3722fc3868f0e70d32ff3c169995d7543931511": {
+      "workers": {
+        "app/(auth)/login/page": {
+          "moduleId": 42858,
+          "async": false,
+          "exportedName": "login",
+          "filename": "src/app/auth/actions.ts"
+        }
+      },
+      "filename": "src/app/auth/actions.ts",
+      "exportedName": "login"
+    },
+    "6012314ee6297a4eb99446cee7592cebcc95e03184": {
+      "workers": {
+        "app/(auth)/reset-password/page": {
+          "moduleId": 60368,
+          "async": false,
+          "exportedName": "resetPassword",
+          "filename": "src/app/auth/actions.ts"
+        }
+      },
+      "filename": "src/app/auth/actions.ts",
+      "exportedName": "resetPassword"
+    },
+    "0072865be4ff4c45db678c6f005258566b0b569e03": {
+      "workers": {
+        "app/(dashboard)/accreditation/page": {
+          "moduleId": 49053,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        },
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        },
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        },
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        },
+        "app/(dashboard)/literacy/page": {
+          "moduleId": 28137,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        },
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        },
+        "app/(dashboard)/members/page": {
+          "moduleId": 12167,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        },
+        "app/(dashboard)/profile/page": {
+          "moduleId": 77665,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        },
+        "app/(dashboard)/reports/page": {
+          "moduleId": 63324,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        },
+        "app/(dashboard)/settings/page": {
+          "moduleId": 43362,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        }
+      },
+      "filename": "src/app/auth/actions.ts",
+      "exportedName": "logout"
+    },
+    "00a0a469156326b1c0ef3b6cb7b94ecfc0678ee73a": {
+      "workers": {
+        "app/(dashboard)/accreditation/page": {
+          "moduleId": 49053,
+          "async": false,
+          "exportedName": "getAccreditationOverview",
+          "filename": "src/app/(dashboard)/accreditation/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/accreditation/actions.ts",
+      "exportedName": "getAccreditationOverview"
+    },
+    "403d40f3d3a3793b79c1d71f7f785c68adda3a64da": {
+      "workers": {
+        "app/(dashboard)/accreditation/page": {
+          "moduleId": 49053,
+          "async": false,
+          "exportedName": "getCategoryRequirements",
+          "filename": "src/app/(dashboard)/accreditation/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/accreditation/actions.ts",
+      "exportedName": "getCategoryRequirements"
+    },
+    "40ab8bfda9a9c5005565ae149801714b7271fad4ec": {
+      "workers": {
+        "app/(dashboard)/accreditation/page": {
+          "moduleId": 49053,
+          "async": false,
+          "exportedName": "getSubmissionVersionsList",
+          "filename": "src/app/(dashboard)/accreditation/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/accreditation/actions.ts",
+      "exportedName": "getSubmissionVersionsList"
+    },
+    "40baad293f65e84532d1864a9600b3e91c5c38fa57": {
+      "workers": {
+        "app/(dashboard)/accreditation/page": {
+          "moduleId": 49053,
+          "async": false,
+          "exportedName": "uploadEvidenceAction",
+          "filename": "src/app/(dashboard)/accreditation/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/accreditation/actions.ts",
+      "exportedName": "uploadEvidenceAction"
+    },
+    "70aa71420c84909f39239c39a3057d6afe897af149": {
+      "workers": {
+        "app/(dashboard)/accreditation/page": {
+          "moduleId": 49053,
+          "async": false,
+          "exportedName": "saveAssessorCommentAction",
+          "filename": "src/app/(dashboard)/accreditation/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/accreditation/actions.ts",
+      "exportedName": "saveAssessorCommentAction"
+    },
+    "00585ed407af0db84bddb50e7dccd541fe1f39e3c6": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "getDocumentsList",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/admin/actions.ts",
+      "exportedName": "getDocumentsList"
+    },
+    "00d9ea49984f8a57fbfab200a58b208ce314e3979e": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "getArchivedDocuments",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/admin/actions.ts",
+      "exportedName": "getArchivedDocuments"
+    },
+    "4094c096a11c17840f02c37bee24180ccfe0e7aac1": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "getDocumentVersions",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/admin/actions.ts",
+      "exportedName": "getDocumentVersions"
+    },
+    "40b24d16f8afbbc20dcc26142d6432c8fc969e096b": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "uploadDocumentAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/admin/actions.ts",
+      "exportedName": "uploadDocumentAction"
+    },
+    "6024ebe577ccb7ce2bd758e5799a4aaaa0fbe82354": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "uploadNewVersionAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/admin/actions.ts",
+      "exportedName": "uploadNewVersionAction"
+    },
+    "60f42781c193f83c76830cf1029d31d37118dda58d": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "updateDocumentStatusAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/admin/actions.ts",
+      "exportedName": "updateDocumentStatusAction"
+    },
+    "40b1b7888259697d9ac65fdeeb21074211a2a3210f": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "archiveDocumentAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/admin/actions.ts",
+      "exportedName": "archiveDocumentAction"
+    },
+    "4078bb3269fd318e366a47958b7aa986d554ccee8e": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "restoreDocumentAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/admin/actions.ts",
+      "exportedName": "restoreDocumentAction"
+    },
+    "0011ec62e3dffaa96eb55272beb41e0be0082919b9": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "getCatalogData",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        },
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "getCatalogData",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/books/actions.ts",
+      "exportedName": "getCatalogData"
+    },
+    "00e28419bfaeb485aedbb49658e3c4b800013a6590": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "getBooksList",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        },
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "getBooksList",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/books/actions.ts",
+      "exportedName": "getBooksList"
+    },
+    "403a7802d83aec3298e7582d8d85951fc6cc2377a6": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "deleteBook",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        },
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "deleteBook",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/books/actions.ts",
+      "exportedName": "deleteBook"
+    },
+    "40aeefb1288474e84950643936b901d36dbe6bb4c9": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "createBook",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        },
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "createBook",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/books/actions.ts",
+      "exportedName": "createBook"
+    },
+    "603224a54b36a65b5f9b3a091752f5677110500338": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "createAuthor",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        },
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "createAuthor",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/books/actions.ts",
+      "exportedName": "createAuthor"
+    },
+    "60a08385bd52717719038ca2a7103a33c81e9fbf56": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "updateBook",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        },
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "updateBook",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/books/actions.ts",
+      "exportedName": "updateBook"
+    },
+    "702edff44acc6a99da2158cc762563a5c59ac976ac": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "createCategory",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        },
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "createCategory",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/books/actions.ts",
+      "exportedName": "createCategory"
+    },
+    "787ed281b11377e0868709da6da71174a811e6daf4": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "createPublisher",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        },
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "createPublisher",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/books/actions.ts",
+      "exportedName": "createPublisher"
+    },
+    "00364f6348c6ca3d13cf629dca531fb34e2724bed0": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getAssetsList",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "getAssetsList"
+    },
+    "006b762e17b0ccd4cc5b20d874c1ab40a1e8ede101": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getInventoryStats",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "getInventoryStats"
+    },
+    "40cf6bddec0604a4e93551a5e95800d00f94ddd934": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getAssetMaintenanceHistory",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "getAssetMaintenanceHistory"
+    },
+    "40b7ab50892bceb4b445ce9b85147dad0b568a6cc1": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getAssetDamageReports",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "getAssetDamageReports"
+    },
+    "407f63558b4468aacf1631a4d05f157da1e9969fc3": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "createAssetAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "createAssetAction"
+    },
+    "70a31471e96df8eda7f6b5d6419cabbfba04d11e90": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "createDamageReportAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "createDamageReportAction"
+    },
+    "7e85ad8338272497d1b02ab0062828c31e666cdeac": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "logMaintenanceAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "logMaintenanceAction"
+    },
+    "7c7710fe0821925ebce856922b69ef2289f312e552": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "logRepairAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "logRepairAction"
+    },
+    "4048fafb1d7cee7d186a1d6a1768402ba60c3e0781": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "deleteAssetAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "deleteAssetAction"
+    },
+    "408379e7b7d124ff54843da2ad0784541e12c4a51d": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getRepairHistory",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/inventory/actions.ts",
+      "exportedName": "getRepairHistory"
+    },
+    "00935a17319fcc1d8f1fc2265b855ccfed0cd23092": {
+      "workers": {
+        "app/(dashboard)/literacy/page": {
+          "moduleId": 28137,
+          "async": false,
+          "exportedName": "getReadingJournalsList",
+          "filename": "src/app/(dashboard)/literacy/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/literacy/actions.ts",
+      "exportedName": "getReadingJournalsList"
+    },
+    "00cdd9283cf209b7aac1d17d7376d4a01d1c7d139c": {
+      "workers": {
+        "app/(dashboard)/literacy/page": {
+          "moduleId": 28137,
+          "async": false,
+          "exportedName": "getAchievementsList",
+          "filename": "src/app/(dashboard)/literacy/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/literacy/actions.ts",
+      "exportedName": "getAchievementsList"
+    },
+    "0055c09e329c6de5b7e5bf75b7c64adaa8bc7008a4": {
+      "workers": {
+        "app/(dashboard)/literacy/page": {
+          "moduleId": 28137,
+          "async": false,
+          "exportedName": "getLiteracyProgramsList",
+          "filename": "src/app/(dashboard)/literacy/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/literacy/actions.ts",
+      "exportedName": "getLiteracyProgramsList"
+    },
+    "00b236343564a32815ab48d3f41bd28d56f5c8744e": {
+      "workers": {
+        "app/(dashboard)/literacy/page": {
+          "moduleId": 28137,
+          "async": false,
+          "exportedName": "getLiteracyEventsList",
+          "filename": "src/app/(dashboard)/literacy/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/literacy/actions.ts",
+      "exportedName": "getLiteracyEventsList"
+    },
+    "0050f400b4f099f028fb03392e349247e093371a00": {
+      "workers": {
+        "app/(dashboard)/literacy/page": {
+          "moduleId": 28137,
+          "async": false,
+          "exportedName": "getLiteracyStats",
+          "filename": "src/app/(dashboard)/literacy/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/literacy/actions.ts",
+      "exportedName": "getLiteracyStats"
+    },
+    "78688d1bd8b1d2f2e8fa2721e9e0d2044f74158ff9": {
+      "workers": {
+        "app/(dashboard)/literacy/page": {
+          "moduleId": 28137,
+          "async": false,
+          "exportedName": "createReadingJournalAction",
+          "filename": "src/app/(dashboard)/literacy/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/literacy/actions.ts",
+      "exportedName": "createReadingJournalAction"
+    },
+    "70aa103340624922dfeb3477a8137797d810e7426c": {
+      "workers": {
+        "app/(dashboard)/literacy/page": {
+          "moduleId": 28137,
+          "async": false,
+          "exportedName": "verifyReadingJournalAction",
+          "filename": "src/app/(dashboard)/literacy/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/literacy/actions.ts",
+      "exportedName": "verifyReadingJournalAction"
+    },
+    "7c48011f22d25b33af7ecbd513835d41f3927dac18": {
+      "workers": {
+        "app/(dashboard)/literacy/page": {
+          "moduleId": 28137,
+          "async": false,
+          "exportedName": "createLiteracyEventAction",
+          "filename": "src/app/(dashboard)/literacy/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/literacy/actions.ts",
+      "exportedName": "createLiteracyEventAction"
+    },
+    "0042fc6c38f30cdac1317c566f87cd19ec0915b605": {
+      "workers": {
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "getLoansList",
+          "filename": "src/app/(dashboard)/loans/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/loans/actions.ts",
+      "exportedName": "getLoansList"
+    },
+    "00bfff30a970492fa5db22a3d0822e040cfdf380c3": {
+      "workers": {
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "getReservationsList",
+          "filename": "src/app/(dashboard)/loans/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/loans/actions.ts",
+      "exportedName": "getReservationsList"
+    },
+    "0070b460cc7178ac26263c5d44aba221ee52314251": {
+      "workers": {
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "getCirculationStats",
+          "filename": "src/app/(dashboard)/loans/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/loans/actions.ts",
+      "exportedName": "getCirculationStats"
+    },
+    "007293902d30818fc5fce990431053ea2c1aa9f483": {
+      "workers": {
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "getActiveUsersList",
+          "filename": "src/app/(dashboard)/loans/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/loans/actions.ts",
+      "exportedName": "getActiveUsersList"
+    },
+    "7070121268ebee03c3242a37a757793e191a2bd337": {
+      "workers": {
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "createBorrowAction",
+          "filename": "src/app/(dashboard)/loans/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/loans/actions.ts",
+      "exportedName": "createBorrowAction"
+    },
+    "780c371fa900dd96d3b14c96a19f9cfdcf0aeecb2c": {
+      "workers": {
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "processReturnAction",
+          "filename": "src/app/(dashboard)/loans/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/loans/actions.ts",
+      "exportedName": "processReturnAction"
+    },
+    "4070174066363daeec0aa820a781da45593d8b4322": {
+      "workers": {
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "cancelReservationAction",
+          "filename": "src/app/(dashboard)/loans/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/loans/actions.ts",
+      "exportedName": "cancelReservationAction"
+    },
+    "409efaaa384da1854cc8daa4f0e248778fb859a116": {
+      "workers": {
+        "app/(dashboard)/loans/page": {
+          "moduleId": 32708,
+          "async": false,
+          "exportedName": "createReservationAction",
+          "filename": "src/app/(dashboard)/loans/actions.ts"
+        }
+      },
+      "filename": "src/app/(dashboard)/loans/actions.ts",
+      "exportedName": "createReservationAction"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "usfltGzk2JIjpfoRT3Tb+iFYdHd0W0RS/tCjquPLuDk="
+}

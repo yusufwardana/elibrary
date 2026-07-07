@@ -1,0 +1,137 @@
+{
+  "node": {
+    "0072865be4ff4c45db678c6f005258566b0b569e03": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        }
+      },
+      "exportedName": "logout",
+      "filename": "src/app/auth/actions.ts"
+    },
+    "00364f6348c6ca3d13cf629dca531fb34e2724bed0": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getAssetsList",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "getAssetsList",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    },
+    "006b762e17b0ccd4cc5b20d874c1ab40a1e8ede101": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getInventoryStats",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "getInventoryStats",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    },
+    "40cf6bddec0604a4e93551a5e95800d00f94ddd934": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getAssetMaintenanceHistory",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "getAssetMaintenanceHistory",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    },
+    "40b7ab50892bceb4b445ce9b85147dad0b568a6cc1": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getAssetDamageReports",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "getAssetDamageReports",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    },
+    "407f63558b4468aacf1631a4d05f157da1e9969fc3": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "createAssetAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "createAssetAction",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    },
+    "70a31471e96df8eda7f6b5d6419cabbfba04d11e90": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "createDamageReportAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "createDamageReportAction",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    },
+    "7e85ad8338272497d1b02ab0062828c31e666cdeac": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "logMaintenanceAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "logMaintenanceAction",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    },
+    "7c7710fe0821925ebce856922b69ef2289f312e552": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "logRepairAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "logRepairAction",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    },
+    "4048fafb1d7cee7d186a1d6a1768402ba60c3e0781": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "deleteAssetAction",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "deleteAssetAction",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    },
+    "408379e7b7d124ff54843da2ad0784541e12c4a51d": {
+      "workers": {
+        "app/(dashboard)/inventory/page": {
+          "moduleId": 33238,
+          "async": false,
+          "exportedName": "getRepairHistory",
+          "filename": "src/app/(dashboard)/inventory/actions.ts"
+        }
+      },
+      "exportedName": "getRepairHistory",
+      "filename": "src/app/(dashboard)/inventory/actions.ts"
+    }
+  },
+  "edge": {}
+}

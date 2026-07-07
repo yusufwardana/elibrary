@@ -1,0 +1,21 @@
+{
+  "/(auth)/forgot-password/page": "/forgot-password",
+  "/(auth)/login/page": "/login",
+  "/(auth)/reset-password/page": "/reset-password",
+  "/(dashboard)/accreditation/page": "/accreditation",
+  "/(dashboard)/admin/page": "/admin",
+  "/(dashboard)/books/page": "/books",
+  "/(dashboard)/inventory/page": "/inventory",
+  "/(dashboard)/literacy/page": "/literacy",
+  "/(dashboard)/loans/page": "/loans",
+  "/(dashboard)/members/page": "/members",
+  "/(dashboard)/page": "/",
+  "/(dashboard)/profile/page": "/profile",
+  "/(dashboard)/reports/page": "/reports",
+  "/(dashboard)/settings/page": "/settings",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/auth/callback/route": "/auth/callback",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}

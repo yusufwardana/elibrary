@@ -1,0 +1,17 @@
+{
+  "node": {
+    "6025e39521a7106254360e2e274598c9080b139421": {
+      "workers": {
+        "app/(auth)/forgot-password/page": {
+          "moduleId": 85074,
+          "async": false,
+          "exportedName": "forgotPassword",
+          "filename": "src/app/auth/actions.ts"
+        }
+      },
+      "exportedName": "forgotPassword",
+      "filename": "src/app/auth/actions.ts"
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,113 @@
+{
+  "node": {
+    "0072865be4ff4c45db678c6f005258566b0b569e03": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        }
+      },
+      "exportedName": "logout",
+      "filename": "src/app/auth/actions.ts"
+    },
+    "00585ed407af0db84bddb50e7dccd541fe1f39e3c6": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "getDocumentsList",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "exportedName": "getDocumentsList",
+      "filename": "src/app/(dashboard)/admin/actions.ts"
+    },
+    "00d9ea49984f8a57fbfab200a58b208ce314e3979e": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "getArchivedDocuments",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "exportedName": "getArchivedDocuments",
+      "filename": "src/app/(dashboard)/admin/actions.ts"
+    },
+    "4094c096a11c17840f02c37bee24180ccfe0e7aac1": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "getDocumentVersions",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "exportedName": "getDocumentVersions",
+      "filename": "src/app/(dashboard)/admin/actions.ts"
+    },
+    "40b24d16f8afbbc20dcc26142d6432c8fc969e096b": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "uploadDocumentAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "exportedName": "uploadDocumentAction",
+      "filename": "src/app/(dashboard)/admin/actions.ts"
+    },
+    "6024ebe577ccb7ce2bd758e5799a4aaaa0fbe82354": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "uploadNewVersionAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "exportedName": "uploadNewVersionAction",
+      "filename": "src/app/(dashboard)/admin/actions.ts"
+    },
+    "60f42781c193f83c76830cf1029d31d37118dda58d": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "updateDocumentStatusAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "exportedName": "updateDocumentStatusAction",
+      "filename": "src/app/(dashboard)/admin/actions.ts"
+    },
+    "40b1b7888259697d9ac65fdeeb21074211a2a3210f": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "archiveDocumentAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "exportedName": "archiveDocumentAction",
+      "filename": "src/app/(dashboard)/admin/actions.ts"
+    },
+    "4078bb3269fd318e366a47958b7aa986d554ccee8e": {
+      "workers": {
+        "app/(dashboard)/admin/page": {
+          "moduleId": 67658,
+          "async": false,
+          "exportedName": "restoreDocumentAction",
+          "filename": "src/app/(dashboard)/admin/actions.ts"
+        }
+      },
+      "exportedName": "restoreDocumentAction",
+      "filename": "src/app/(dashboard)/admin/actions.ts"
+    }
+  },
+  "edge": {}
+}

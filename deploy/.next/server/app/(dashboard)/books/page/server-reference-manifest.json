@@ -1,0 +1,113 @@
+{
+  "node": {
+    "0072865be4ff4c45db678c6f005258566b0b569e03": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "logout",
+          "filename": "src/app/auth/actions.ts"
+        }
+      },
+      "exportedName": "logout",
+      "filename": "src/app/auth/actions.ts"
+    },
+    "0011ec62e3dffaa96eb55272beb41e0be0082919b9": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "getCatalogData",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "exportedName": "getCatalogData",
+      "filename": "src/app/(dashboard)/books/actions.ts"
+    },
+    "00e28419bfaeb485aedbb49658e3c4b800013a6590": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "getBooksList",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "exportedName": "getBooksList",
+      "filename": "src/app/(dashboard)/books/actions.ts"
+    },
+    "403a7802d83aec3298e7582d8d85951fc6cc2377a6": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "deleteBook",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "exportedName": "deleteBook",
+      "filename": "src/app/(dashboard)/books/actions.ts"
+    },
+    "40aeefb1288474e84950643936b901d36dbe6bb4c9": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "createBook",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "exportedName": "createBook",
+      "filename": "src/app/(dashboard)/books/actions.ts"
+    },
+    "603224a54b36a65b5f9b3a091752f5677110500338": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "createAuthor",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "exportedName": "createAuthor",
+      "filename": "src/app/(dashboard)/books/actions.ts"
+    },
+    "60a08385bd52717719038ca2a7103a33c81e9fbf56": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "updateBook",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "exportedName": "updateBook",
+      "filename": "src/app/(dashboard)/books/actions.ts"
+    },
+    "702edff44acc6a99da2158cc762563a5c59ac976ac": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "createCategory",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "exportedName": "createCategory",
+      "filename": "src/app/(dashboard)/books/actions.ts"
+    },
+    "787ed281b11377e0868709da6da71174a811e6daf4": {
+      "workers": {
+        "app/(dashboard)/books/page": {
+          "moduleId": 6633,
+          "async": false,
+          "exportedName": "createPublisher",
+          "filename": "src/app/(dashboard)/books/actions.ts"
+        }
+      },
+      "exportedName": "createPublisher",
+      "filename": "src/app/(dashboard)/books/actions.ts"
+    }
+  },
+  "edge": {}
+}
