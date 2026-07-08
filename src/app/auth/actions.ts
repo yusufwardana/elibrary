@@ -41,8 +41,9 @@ export async function login(prevState: unknown, formData: FormData) {
   });
 
   if (error) {
+    console.error("[LOGIN ERROR]", error.message, "| URL:", process.env.NEXT_PUBLIC_SUPABASE_URL);
     return {
-      error: "Email atau password salah. Silakan coba lagi.",
+      error: `[DEBUG] ${error.message} | URL: ${process.env.NEXT_PUBLIC_SUPABASE_URL?.slice(0, 30)}...`,
     };
   }
 
